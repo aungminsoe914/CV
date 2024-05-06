@@ -1,0 +1,2 @@
+# CV
+Odoo Project
